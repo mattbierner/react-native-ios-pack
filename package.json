@@ -3,7 +3,7 @@
     "displayName": "React Native iOS Pack",
     "description": "Extension pack for iOS React Native development",
     "private": true,
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "bierner",
     "icon": "resources/icon.svg",
     "license": "MIT",
