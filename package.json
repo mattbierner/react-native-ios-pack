@@ -1,0 +1,28 @@
+{
+    "name": "react-native-ios-pack",
+    "displayName": "React Native iOS Pack",
+    "description": "Extension pack for iOS React Native development",
+    "version": "0.0.1",
+    "publisher": "bierner",
+    "icon": "resources/icon.svg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mattbierner/react-native-ios-pack"
+    },
+    "galleryBanner": {
+        "color": "#fafafa",
+        "theme": "light"
+    },
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "microsoft.vscode-react-native",
+        "mitaki28.vscode-clang",
+        "xaver.clang-format",
+        "Kasik96.swift"
+    ]
+}
